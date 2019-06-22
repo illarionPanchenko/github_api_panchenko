@@ -1,0 +1,12 @@
+.OrgForm{
+    width: 100%;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inp{
+    width: 50%;
+    margin: 10px;
+}
